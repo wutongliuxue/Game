@@ -25,6 +25,3 @@ public class CameraFollow : MonoBehaviour
         transform.position = tempPos;
     }
 }
-
-
-//being called after calculation
